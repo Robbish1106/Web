@@ -7,7 +7,7 @@
 > * 5.[專題連結區](https://github.com/Robbish1106/Web#%E5%B0%88%E9%A1%8C%E9%80%A3%E7%B5%90%E5%8D%80)
 ## 課程資訊
 > * 授課教師:[蔡芸琤老師](https://github.com/pecu?tab=repositories)
-> * 姓名:翁健哲
+> * 姓名:[翁健哲](https://robbish1106.github.io/Web/bootstrap/blog/index.html)
 > * 系級:科技系2年級
 ## 每週計畫
 > * Week-01
