@@ -1,10 +1,10 @@
 # 111-1 師大科技系網際網路概論
 ## 目錄
 > * 1.[課程資訊](https://github.com/Robbish1106/Web#%E8%AA%B2%E7%A8%8B%E8%B3%87%E8%A8%8A)
-> * 2.[每週計畫](/每週計畫/)
-> * 3.[課程筆記區](/課程筆記區/)
-> * 4.[作業連結區](/作業連結區/)
-> * 5.[專題連結區](/專題連結區/)
+> * 2.[每週計畫](https://github.com/Robbish1106/Web#%E6%AF%8F%E9%80%B1%E8%A8%88%E7%95%AB)
+> * 3.[課程筆記區](https://github.com/Robbish1106/Web#%E8%AA%B2%E7%A8%8B%E7%AD%86%E8%A8%98%E5%8D%80)
+> * 4.[作業連結區](https://github.com/Robbish1106/Web#%E4%BD%9C%E6%A5%AD%E9%80%A3%E7%B5%90%E5%8D%80)
+> * 5.[專題連結區](https://github.com/Robbish1106/Web#%E5%B0%88%E9%A1%8C%E9%80%A3%E7%B5%90%E5%8D%80)
 ## 課程資訊
 > * 授課教師:[蔡芸琤老師](https://github.com/pecu?tab=repositories)
 > * 姓名:翁健哲
