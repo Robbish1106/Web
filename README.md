@@ -30,7 +30,7 @@
 ### Week-18
 ## 課程筆記區
 ## 作業連結區
-> * Web1
+> * [Web1](https://www.youtube.com/watch?v=h-r7c8b9df4)
 > * Web2
 > * Web3
 > * Web4
