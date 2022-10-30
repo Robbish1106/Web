@@ -33,8 +33,7 @@
 > * [Web1](https://www.youtube.com/watch?v=h-r7c8b9df4)
 > * [Web2](https://www.youtube.com/watch?v=jelgsIkgBb8)
 > * [Web3]()
-### 細節說明
-#### Lab2的部分有一些跟規定的操作不同:
+### WEB細節說明-Lab2的部分有一些跟規定的操作不同:
 #### 1.安全群組的名字有做更改(後面多加一個1)，
 ####   但整體不影響進程
 #### 2.磁碟區大小修改後忘記重新整理，
